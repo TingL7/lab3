@@ -47,6 +47,9 @@ sort(): 0.415433 seconds
 
 v1/v2 are different.
 
+insertion_sort(): 13008.4 seconds
+
+v1/v2 are the same.
 
 ---
 * Quesion B explanation
